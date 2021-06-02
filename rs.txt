@@ -1,0 +1,6 @@
+B1: Clone repository: git clone https://gitlab.com/tubcvt/git-basic-ex7.git
+B2: Thay doi global config:git config --global user.email "Phamdund97@gmail.com" va git config --global user.name "Pham Du"
+B3: Dat lai remote url: git remote set-url origin https://github.com/phamdund97/Exercise-8.git
+B4: Tien hanh chen noi dung lan luot la "Bad commit 1", "Bad commit 2", "Bad commit 3" tai file t.txt, 
+    sau do stage file t.txt va commit voi 3 luot voi message la "bad feature 1", "bad feature 2", "bad feature 3"
+B5: Undo 3 commit gan nhat bang lenh:  git reset --hard HEAD~3
